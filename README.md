@@ -8,5 +8,9 @@ a. if each news has an author
 b. if each news has an image
 
 Then it clicks one of the news from “The Latest News” list to reach the full content and then it verifies;
+
 a. if the browser title is the same with the news title
+
 b. if there are links within the news content 
+
+The code is written using Java with selenium framework and Junit library.
